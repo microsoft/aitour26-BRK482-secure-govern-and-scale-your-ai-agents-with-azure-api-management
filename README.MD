@@ -1,4 +1,4 @@
-# Welcome AI Tour 26 Creators!
+# Welcome AI Tour 26 Creators! 
 
 Thanks for creating content for AI Tour 26.
 
