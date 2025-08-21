@@ -25,20 +25,14 @@ The presentation is divided into three acts. Each act has a number of demoes. Yo
 
 | Demo | Description | Instructions | Video |
 | -- | -- | -- | -- |
-| DEMO 1: Set up AI Features | Import Azure AI Foundry deployment to Azure API Management. This ends up setting up token management, monitoring and semantic caching.  | [link](./DEMO-1/README.md) | [video](https://aka.ms/TODO) |
-| DEMO 2: Observability | Shows how to set up monitoring in Azure | [link](./DEMO-2/README.md) |  [video](https://aka.ms/TODO) |
-| DEMO 3: Content safety | Shows how to use AI safely through block lists, keywords, protect from attacks etc. | [link](./DEMO-3/README.md)  |  [video](https://aka.ms/TODO) |
-| DEMO 4: Create MCP Servers | Create MCP servers from existing APIs in Azure API Management  | [link](./DEMO-4/README.md) |  [video](https://aka.ms/TODO) | 
-| DEMO 5: Security enhancements | Shows managed identity and credential manager usage | [link](./DEMO-5/README.md) |  [video](https://aka.ms/TODO) |
-| DEMO 6: Build your MCP Registry | Shows how you can build a registry of MCP servers to make consumption easy and secure for your colleagues | [link](./DEMO-6/README.md) |  [video](https://aka.ms/TODO) |
+| DEMO 1: Set up AI Features | Import Azure AI Foundry deployment to Azure API Management. This ends up setting up token management, monitoring and semantic caching.  | [link](./DEMO-1/README.md) | [video](https://aka.ms/AAxn3z0) |
+| DEMO 2: Observability | Shows how to set up monitoring in Azure | [link](./DEMO-2/README.md) |  [video](https://aka.ms/AAxo6jw) |
+| DEMO 3: Content safety | Shows how to use AI safely through block lists, keywords, protect from attacks etc. | [link](./DEMO-3/README.md)  |  [video](https://aka.ms/AAxn48r) |
+| DEMO 4: Create MCP Servers | Create MCP servers from existing APIs in Azure API Management  | [link](./DEMO-4/README.md) |  [video](https://aka.ms/AAxo6jv) | 
+| DEMO 5: Security enhancements | Shows managed identity and credential manager usage | [link](./DEMO-5/README.md) |  [video](https://aka.ms/AAxn3yz) |
+| DEMO 6: Build your MCP Registry | Shows how you can build a registry of MCP servers to make consumption easy and secure for your colleagues | [link](./DEMO-6/README.md) |  should be performed live |
 
-### 🕐Timing
 
-| Time        | Description 
---------------|-------------
-0:00 - 5:00   | Intro and overview
-5:00 - 70:00  | Session Steps
-70:00 - 75:00 | Wrap up and Q&A
 
 ### 🏋️Preparation
 Preparation Notes go here, ensure you perform this step [DEMO-1](./DEMO-1/README.md) as it will set up many of the resources used. 

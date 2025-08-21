@@ -1,7 +1,16 @@
 # DEMO-6: Demonstrate MCP registry
 
-**Steps:**
+In this demonstration we're showing how customers can set up their page for their MCP Servers. You're expected to just navigate to this page live on stage and show existing MCP Servers and for example click into a specific MCP Server so you can see what information is saved per server.
 
-- navigate to <https://mcp.azure.com/>
-- show how the registry works
-- grab your own copy of this and self-host, <https://learn.microsoft.com/en-us/azure/api-center/self-host-api-center-portal>
+Suggested navigation steps:
+
+- Navigate to <https://mcp.azure.com/>.
+- Select Playwright
+
+Talk about what a detail view showcases like:
+
+- Description
+- Category
+- Type
+- How to install
+
