@@ -1,6 +1,8 @@
 # DEMO-3: Demonstrate content safety
 
-Here we demonstrate various content safety features like dealing with offensive content, attacks like prompt injection and block of competitor mentions.
+Here we demonstrate various content safety features like dealing with offensive content, attacks like prompt injection and block of competitor mentions.  
+
+**IMPORTANT** once we switch to our chat app to demonstrate, we toggle between two different deployments. One is DeepSeek directly from HuggingFace and the other from AI Foundry. Every time the prompt succeeds with competition, prompt injection etc, i.e dangerous things it goes against HuggingFace. Conversely, everytim it's blocked and you get a 403 response it means our filters are working and it successfully blocks dangerous/competitor calls
 
 **Link:**
 
