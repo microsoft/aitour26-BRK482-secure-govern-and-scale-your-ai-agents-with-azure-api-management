@@ -13,8 +13,8 @@ Prior to delivering the presentation please:
 
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
-| Session Deliver Deck     |  [Presentation](https://aka.ms/)  | Presentation slides and embedded demo videos |
-| Presentation recording |  [Deck](https://aka.ms/) | Recording of the session |
+| Session Deliver Deck     |  [Presentation](https://aka.ms/AAxo818)  | Presentation slides and embedded demo videos |
+| Presentation recording |  [Deck](https://aka.ms/AAxrxem) | Recording of the session |
 
 
 ## 🚀Get Started
