@@ -14,7 +14,7 @@ Prior to delivering the presentation please:
 | Resources          | Links                            | Description |
 |-------------------|----------------------------------|-------------------|
 | Session Deliver Deck     |  [Presentation](https://aka.ms/AAxo818)  | Presentation slides and embedded demo videos |
-| Presentation recording |  [Deck](https://aka.ms/AAxrxem) | Recording of the session |
+| Presentation recording |  [Recording](https://youtu.be/RjHllF7NRAE) | Recording of the session |
 
 
 ## 🚀Get Started
